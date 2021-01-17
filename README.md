@@ -10,9 +10,11 @@ git config --global user.name "Jean-Marc YEYE"
 git config --global user.email "yeye.jean_marc_AT_live.fr"
 
 # Position 
-git config --global user.position "PHP DEVELOPPER" 
+git config --global user.position "PHP DEVELOPER" 
 ```
 
+
+<!--
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=slik95&count_private=true&show_icons=true&theme=tokyonight" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slik95&theme=dark&hide=html" />
-
+--> 
