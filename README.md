@@ -7,7 +7,7 @@
 git config --global user.name "Jean-Marc YEYE"
 
 # Identity Email
-git config --global user.email "yeye.jean_marc_AT_live.fr"
+git config --global user.email "yeye.jeanmarc.pro_AT_gmail.com"
 
 # Position 
 git config --global user.position "PHP DEVELOPER" 
