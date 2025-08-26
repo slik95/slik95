@@ -26,8 +26,7 @@ Je suis **développeur web freelance**, spécialisé en **PHP/Symfony** et **Rea
 
 ## 📬 Me contacter
 
-📧 yeye.jeanmarc.pro@gmail.com  
-📞 +33 6 46 46 36 94  
+📧 yeye.jeanmarc.pro@gmail.com
 📋 [Demander un devis](https://tally.so/r/mRQ8xp)  
 🌍 [Mon espace pro (Notion)](https://sudden-freighter-495.notion.site/Espace-Pro-Jean-Marc-YEYE-22205662095d8003853cc27814c6c3cf)
 
